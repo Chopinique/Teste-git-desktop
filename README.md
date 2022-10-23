@@ -1,2 +1,2 @@
 # Teste git desktop
- teste com git desktop
+Testando como funciona git desktop + VSCode
